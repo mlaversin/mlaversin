@@ -14,4 +14,4 @@ I'm ready for making new projects !
 
 ### Links 🔗
 
- [My portfolio](https://www.morganlaversin.fr)
+[My portfolio](https://www.morganlaversin.fr)
