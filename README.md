@@ -8,5 +8,5 @@ I'm __Morgan__, a __full stack developer__ based in France. I'm ready for making
 ### My skills 💻
 
 <p align="center">
-  <img align="center" alt="Skills" src="https://github.com/mlaversin/mlaversin/main/img/skills.png" />
+  <img align="center" alt="Skills" src="https://github.com/mlaversin/mlaversin/blob/main/img/skills.png" />
 </p>
