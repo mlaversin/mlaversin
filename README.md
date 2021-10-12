@@ -2,7 +2,7 @@
 
 ### About me 👱
 
-I'm __Morgan__, a __full stack developer__ based in France. I worked for 15 years as a biologist before discovering the joy of coding.
+I'm __Morgan__, a __web developer__ based in France. I worked for 15 years as a biologist before discovering the joy of coding.
 I'm ready for making new projects !
 
 
