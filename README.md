@@ -15,4 +15,4 @@ I'm ready for making new projects !
 
 <!-- [My portfolio](https://www.morganlaversin.fr){:target="\_blank"} -->
 
-<a href="https://www.morganlaversin.fr" target="_blank">My portfolio</a>
+<a href="https://www.morganlaversin.fr" target="\_blank">My portfolio</a>
