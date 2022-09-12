@@ -2,9 +2,8 @@
 
 ### About me 👱
 
-I'm __Morgan__, a __web developer__ based in France. I worked for 15 years as a biologist before discovering the joy of coding.
+I'm **Morgan**, a **web developer** based in France. I worked for 15 years as a biologist before discovering the joy of coding.
 I'm ready for making new projects !
-
 
 ### My skills 💻
 
@@ -14,4 +13,4 @@ I'm ready for making new projects !
 
 ### Links 🔗
 
-[My portfolio](https://www.morganlaversin.fr)
+[My portfolio](https://www.morganlaversin.fr){:target="\_blank"}
