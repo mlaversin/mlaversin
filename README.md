@@ -13,4 +13,6 @@ I'm ready for making new projects !
 
 ### Links 🔗
 
-[My portfolio](https://www.morganlaversin.fr){:target="\_blank"}
+<!-- [My portfolio](https://www.morganlaversin.fr){:target="\_blank"} -->
+
+<a href="https://www.morganlaversin.fr" target="_blank">My portfolio</a>
